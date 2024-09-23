@@ -1,0 +1,7 @@
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\bin\Debug\TareaProgra3.exe.config
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\bin\Debug\TareaProgra3.exe
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\bin\Debug\TareaProgra3.pdb
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\obj\Debug\TareaProgra3.csproj.AssemblyReference.cache
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\obj\Debug\TareaProgra3.csproj.CoreCompileInputs.cache
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\obj\Debug\TareaProgra3.exe
+C:\Users\natha\Music\CODIGOS\TareaProgra3\TareaProgra3\obj\Debug\TareaProgra3.pdb
