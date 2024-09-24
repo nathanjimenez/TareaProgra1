@@ -122,11 +122,11 @@ class Program
         Console.WriteLine("\n===============================");
         while (index < estudiantes.Count)
         {
-            // Mostrar información del estudiante
+            
             estudiantes[index].MostrarInfo();
             Console.WriteLine($"{estudiantes[index].Nombre} tiene un promedio de {estudiantes[index].Promedio}.");
 
-            // Verifica si es mayor de edad
+            
             if (estudiantes[index].EsMayorDeEdad())
             {
                 Console.WriteLine($"{estudiantes[index].Nombre} es mayor de edad.");
